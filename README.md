@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Yuna55
 - 🎈I like anime and karate
 - 📚 I’m currently learning roblox studio
-- 🍔 My favorite foods are burgers and pizza
-- 💙 My favorite color is blue
 - 🌲 I love to be outside
 - 📖I also love to read and listen to music🎧
-- 🎵My favorite songs are Dance of the violins and Ubiquitous dB
 
 <!---
 Yuna55 is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
